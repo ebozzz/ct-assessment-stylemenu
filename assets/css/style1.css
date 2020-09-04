@@ -5,7 +5,7 @@
     - cover background with the "map-bg.jpg" image in the images directory. 
 */
 body {
-  font-family: lato;
+  font-family: Lato;
   font-size: 18px;
   background-image: url("../images/map-bg.jpg");
   background-size: cover;
@@ -26,7 +26,7 @@ nav {
         - set the font size to 45px 
         - set the font color to #5d4037
 */
-name {
+title {
   font-family: Supermercardo One;
   font-size: 45px;
   color: #5d4037;

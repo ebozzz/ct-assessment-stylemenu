@@ -66,7 +66,7 @@ dt {
     - Make a comma appear after the name of each menu item
 */
 dt::after {
-  content: attr(comma);
+  content: ", ";
 }
 dd {
   display: inline;
